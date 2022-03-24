@@ -1,3 +1,4 @@
+# Sensorless control of PM synchronous motors
 Synchronous motors are synchronous machines used to convert electrical power to mechanical power.The goal of this project is implement a sensorless controller for a permanent magnet synchronous motor (PMSM).
 
 The project consists of four parts:
@@ -9,6 +10,7 @@ The project consists of four parts:
 Each part makes a base for the next one, so we recommend the user to follow them in order.
 
 For more information, we recommend that you read the following articles:
+
 1- Ortega, Romeo, et al. "A parameter estimation approach to state observation of nonlinear systems." Systems & Control Letters 85 (2015): 84-94.
 
 2- Bobtsov, Alexey A., et al. "A robust globally convergent position observer for the permanent magnet synchronous motor." Automatica 61 (2015): 47-54.
