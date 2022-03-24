@@ -3,6 +3,7 @@ mechanical power. To begin to understand synchronous motor operation, it is
 reasonable to start with the investigation in its mathematical model. The goal of this
 project is implement a sensorless controller for a permanent magnet synchronous
 motor (PMSM).
+
 The project consists of four parts:
 1- PMSM modeling.
 2- Vector controller for PMSM.
